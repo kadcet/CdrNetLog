@@ -1,0 +1,15 @@
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\bin\Debug\net7.0\CdrNet.Business.deps.json
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\bin\Debug\net7.0\CdrNet.Business.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\bin\Debug\net7.0\CdrNet.Business.pdb
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\bin\Debug\net7.0\CdrNet.Data.Txt.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\bin\Debug\net7.0\CdrNet.Data.Txt.pdb
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.csproj.AssemblyReference.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.AssemblyInfoInputs.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.AssemblyInfo.cs
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.csproj.CoreCompileInputs.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.csproj.CopyComplete
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\refint\CdrNet.Business.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.pdb
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\ref\CdrNet.Business.dll

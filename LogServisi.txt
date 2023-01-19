@@ -1,0 +1,26 @@
+Log servisinden beklenenler
+
+içerisinde ki 3 metodu kullanarak farklý seviyelerde loglama yapýlmasý bekleniyor.
+1.eror
+2.warning
+3.Information
+
+her bir log seviyesi için 1 metod yazýn
+metodlarýn tümü içerisine hata mesajýný parametre olarak alsýn
+
+loglama yapýlýrken
+1. log seviyesi
+2.log tarihi
+3.log mesajý
+
+dosya sistemine kayýt edilecek
+
+// menüye loglarý incele eklenerek log listesinin ekrana yazdýrýlmasý.
+log aggrefate,log class,log servis. içine metodlarý yaz sabitleri kullan
+
+// Önemli kriter : Proje yapýsýna uygun bir þekilde geliþtirmek.
+loglama yapýlcak dosyayý sabitlere kaydet
+log sýnýfý kullan
+log listesi
+her log seviyesi için metod
+dosya sistemine kayýt

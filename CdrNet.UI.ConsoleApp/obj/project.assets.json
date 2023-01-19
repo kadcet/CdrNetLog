@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "CdrNet.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CdrNet.Data.Txt": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CdrNet.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CdrNet.Business.dll": {}
+        }
+      },
+      "CdrNet.Data.Txt/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CdrNet.Data.Txt.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CdrNet.Data.Txt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CdrNet.Business/1.0.0": {
+      "type": "project",
+      "path": "../CdrNet.Business/CdrNet.Business.csproj",
+      "msbuildProject": "../CdrNet.Business/CdrNet.Business.csproj"
+    },
+    "CdrNet.Data.Txt/1.0.0": {
+      "type": "project",
+      "path": "../CdrNet.Data.Txt/CdrNet.Data.Txt.csproj",
+      "msbuildProject": "../CdrNet.Data.Txt/CdrNet.Data.Txt.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CdrNet.Business >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kadir\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Kadir\\Yazılım\\CSharp\\Coder2\\1ProgramlamayaGiris\\DersProjeleri\\17012023\\CdrNet\\CdrNet.UI.ConsoleApp\\CdrNet.UI.ConsoleApp.csproj",
+      "projectName": "CdrNet.UI.ConsoleApp",
+      "projectPath": "D:\\Kadir\\Yazılım\\CSharp\\Coder2\\1ProgramlamayaGiris\\DersProjeleri\\17012023\\CdrNet\\CdrNet.UI.ConsoleApp\\CdrNet.UI.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Kadir\\.nuget\\packages\\",
+      "outputPath": "D:\\Kadir\\Yazılım\\CSharp\\Coder2\\1ProgramlamayaGiris\\DersProjeleri\\17012023\\CdrNet\\CdrNet.UI.ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\Kadir\\Yazılım\\CSharp\\Coder2\\1ProgramlamayaGiris\\DersProjeleri\\17012023\\CdrNet\\CdrNet.Business\\CdrNet.Business.csproj": {
+              "projectPath": "D:\\Kadir\\Yazılım\\CSharp\\Coder2\\1ProgramlamayaGiris\\DersProjeleri\\17012023\\CdrNet\\CdrNet.Business\\CdrNet.Business.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

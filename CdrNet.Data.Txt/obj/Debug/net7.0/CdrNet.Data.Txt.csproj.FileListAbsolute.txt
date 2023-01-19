@@ -1,0 +1,12 @@
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\bin\Debug\net7.0\CdrNet.Data.Txt.deps.json
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\bin\Debug\net7.0\CdrNet.Data.Txt.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\bin\Debug\net7.0\CdrNet.Data.Txt.pdb
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\obj\Debug\net7.0\CdrNet.Data.Txt.csproj.AssemblyReference.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\obj\Debug\net7.0\CdrNet.Data.Txt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\obj\Debug\net7.0\CdrNet.Data.Txt.AssemblyInfoInputs.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\obj\Debug\net7.0\CdrNet.Data.Txt.AssemblyInfo.cs
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\obj\Debug\net7.0\CdrNet.Data.Txt.csproj.CoreCompileInputs.cache
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\obj\Debug\net7.0\CdrNet.Data.Txt.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\obj\Debug\net7.0\refint\CdrNet.Data.Txt.dll
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\obj\Debug\net7.0\CdrNet.Data.Txt.pdb
+D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.Data.Txt\obj\Debug\net7.0\ref\CdrNet.Data.Txt.dll

@@ -1,0 +1,4 @@
+*******************
+ Log Zamanı : 20.01.2023 01:55:41
+Hata Mesajı : Could not find file 'D:\Kadir\Yazılım\CSharp\Coder2\1ProgramlamayaGiris\DersProjeleri\17012023\CdrNet\CdrNet.UI.ConsoleApp\bin\Debug\net7.0\log.txt'.
+Dosya Yolu : log.txt
